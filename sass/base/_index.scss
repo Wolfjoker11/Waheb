@@ -1,0 +1,146 @@
+.waheblogo {
+    width: 345px;
+    height: 60px;/*
+    top: 0.7vw;
+    left: 4.2vw;
+    margin-left: -13vw;*/
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #FFFFFF !important;
+}
+
+.bg-dark {
+    background: #252536 !important;
+    opacity: 0.6 !important;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.06) !important;
+}
+
+.carousel {
+    position: relative;
+    top: -89px;
+    z-index: -1;
+}
+
+
+.carousel-item {
+    height: 900px;
+  }
+  
+  .carousel-image-1 {
+    background: url(/img/bgheader.jpg);
+    background-size: cover;
+  }
+  
+  .carousel-image-2 {
+    background: url(/img/bgheader.jpg);
+    background-size: cover;
+  }
+  
+  .carousel-image-3 {
+    background: url(/img/bgheader.jpg);
+    background-size: cover;
+  }
+
+  .carousel-image-4 {
+    background: url(/img/bgheader.jpg);
+    background-size: cover;
+  }
+
+  .carousel-indicators {
+    text-align: right !important;
+    float: right !important;
+    right: 1.5% !important;
+    left: inherit !important;
+    padding-bottom: 74px;
+  }
+
+  .carousel-indicators .active {
+    background-color: #3BF74D;
+}
+
+.Car-pag {
+    margin-top: 0px;
+    font-size: 18px;
+}
+
+
+
+.hTexth {
+    font-size: 96px;
+    line-height:80px;    
+    margin-top: 267px;
+    padding-bottom: 90px;
+    color: #191F2F !important;
+  }
+
+  .hText{
+      margin-top: 45px;
+  }
+
+  .hTextp {
+    color:#0B315E !important;
+    ;
+  }
+
+  .ellipse1 {
+    height: 174.2px;
+    width: 87.35px;
+    float: right;
+    position: top;
+    margin-top: 202px;
+    z-index: 1;
+    position: relative;
+}
+
+.welsec {
+    padding-top: 8vw;
+}
+
+.welimg1 {
+width: 365px;
+height: 381px;
+}
+
+.welp1 {
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-style: normal;
+    line-height: 20.83px;
+    color: #5F5F6A;
+    font-size: 16px;
+    padding-top: 2.5vw;
+}
+
+.ellipse3 {
+    transform: translate(-25.2px);
+}
+
+.welh1 {
+    font-size: 36px;
+    color: #558852;
+    font-weight: 700;
+    line-height: 46.87px;
+}
+
+.welp3 {
+    color: #717E97;
+    font-weight: 400;
+    font-family: 'Nunito';
+    font-size: 16px;
+    line-height: 28px;
+    font-style: normal;
+
+}
+
+.welp2 {
+    color: #0B315E;
+    font-weight: 400;
+    font-family: 'DM Sans';
+    font-size: 24px;
+    line-height: 31.25px;
+    font-style: normal;
+
+}
+
+
