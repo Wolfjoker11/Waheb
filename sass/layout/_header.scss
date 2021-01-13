@@ -1,0 +1,75 @@
+.carousel {
+    position: relative;
+    top: -89px;
+    z-index: -1;
+}
+
+
+.carousel-item {
+    height: 900px;
+  }
+  
+  .carousel-image-1 {
+    background: url(/img/bgheader.jpg);
+    background-size: cover;
+  }
+  
+  .carousel-image-2 {
+    background: url(/img/bgheader.jpg);
+    background-size: cover;
+  }
+  
+  .carousel-image-3 {
+    background: url(/img/bgheader.jpg);
+    background-size: cover;
+  }
+
+  .carousel-image-4 {
+    background: url(/img/bgheader.jpg);
+    background-size: cover;
+  }
+
+  .carousel-indicators {
+    text-align: right !important;
+    float: right !important;
+    right: 1.5% !important;
+    left: inherit !important;
+    padding-bottom: 74px;
+  }
+
+  .carousel-indicators .active {
+    background-color: #3BF74D;
+}
+
+.Car-pag {
+    margin-top: 0px;
+    font-size: 18px;
+}
+
+.carousel-caption {
+    text-align: left !important;
+    .h-text {
+        h2 {
+            font-size: 96px;
+            line-height:80px;    
+            margin-top: 267px;
+            // padding-bottom: 90px;
+            color: #191F2F; 
+        }
+        p {
+            color:#0B315E; 
+        }
+    }
+}
+
+
+
+  .ellipse1 {
+    height: 174.2px;
+    width: 87.35px;
+    float: right;
+    position: top;
+    margin-top: 202px;
+    z-index: 1;
+    position: relative;
+}
